@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299525964316",
+    "project_id": "videogab-cf053",
+    "storage_bucket": "videogab-cf053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299525964316:android:6e4c4a537ca0b4e95255d9",
+        "android_client_info": {
+          "package_name": "com.example.videogab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299525964316-se80p1bm22le79afi7pio8cnflltrvdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-9kWoGNDhSTcCo4rRGflylyquLqhgWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299525964316-se80p1bm22le79afi7pio8cnflltrvdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
